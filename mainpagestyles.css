@@ -1,0 +1,53 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+body{
+    background-color: #1cd78f;
+    height: 100vh;
+}
+
+.block {
+    background-color: rgb(130, 226, 199);
+    display: block;
+    margin:auto;
+    border-radius: 25px;
+    width: min(70%, 500px);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+}
+
+.content{
+    margin-top: 2rem;
+    height: 300px;
+    border: 5px solid black;
+    text-align: left;
+    border-radius: 25px;
+    background-color: rgb(192, 174, 174);
+}
+
+.recipe {
+    padding: 5px;
+    font-size: 1.5rem;
+}
+
+a:link{
+    color: black;
+}
+a:hover{
+    color:#e3de4f
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
